@@ -1,0 +1,220 @@
+html {
+  text-align: center;
+}
+#lab_table {
+  margin: 0 auto;
+  padding: 50px;
+  border: solid 2px black;
+  background-color: #e2d3f3;
+  box-shadow: 15px 16px 3px -3px rgb(216, 216, 254);
+  border-radius: 17px 17px 15px 15px;
+}
+.input_box {
+  width: 400px;
+  height: 50px;
+  background-color: #f5effb;
+  font-weight: bold;
+  color: #013dc4;
+  border: 2px solid black;
+  border-radius: 2%;
+  text-size-adjust: auto;
+}
+#bmi_button {
+  width: 230px;
+  height: 50px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#bmi_reset {
+  width: 70px;
+  height: 50px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#lab_table2 {
+  margin: 0 auto;
+  width: 700px;
+  padding: 40px;
+  border: solid 2px black;
+  background-color: #e2d3f3;
+  box-shadow: 15px 16px 3px -3px rgb(216, 216, 254);
+  border-radius: 17px 17px 15px 15px;
+  text-size-adjust: auto;
+}
+#lab_table2 p {
+  font-size: 20px;
+  color: #013dc4;
+  font-weight: bold;
+}
+.input_box2,
+#lab_table2 td {
+  width: 200px;
+  height: 30px;
+  background-color: #f5effb;
+  font-weight: bold;
+  color: #013dc4;
+  border: 2px solid black;
+  border-radius: 2%;
+  text-size-adjust: auto;
+  box-shadow: 8px 5px 12px -3px rgb(161, 161, 163);
+}
+#ani_button {
+  width: 250px;
+  height: 40px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#ani_reset {
+  width: 60px;
+  height: 40px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#result1 td {
+  background-color: #013dc4;
+  color: #f5effb;
+  box-shadow: 8px 5px 12px -3px rgb(161, 161, 163);
+  height: 50px;
+}
+#run_button {
+  width: 650px;
+  height: 40px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#run_reset {
+  width: 650px;
+  height: 40px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#calc_submit {
+  width: 400px;
+  height: 40px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#calc_reset {
+  width: 400px;
+  height: 40px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#lab_table3 {
+  margin: 0 auto;
+  padding: 50px;
+  border: solid 2px black;
+  background-color: #e2d3f3;
+  box-shadow: 15px 16px 3px -3px rgb(216, 216, 254);
+  border-radius: 17px 17px 15px 15px;
+}
+#quiz_button {
+  width: 150px;
+  height: 40px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#quiz_reset {
+  width: 50px;
+  height: 40px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#pic {
+  width: 200px;
+  height: 50px;
+  background-color: #f5effb;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #013dc4;
+  border: 2px solid black;
+  border-radius: 2%;
+  text-size-adjust: auto;
+}
+#quiz_img {
+  background-color: #f5effb;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #013dc4;
+  border: 2px solid black;
+  border-radius: 2%;
+  text-size-adjust: auto;
+}
+#dice_lab_table{
+  margin: 0 auto;
+  padding: 50px;
+  border: solid 2px black;
+  background-color: #e2d3f3;
+  box-shadow: 15px 16px 3px -3px rgb(216, 216, 254);
+  border-radius: 17px 17px 15px 15px;
+}
+#dice_lab_table td{
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #f5effb;
+}
+#dice_lab_table tr{
+    border: 10px, solid, black;
+}
+#dice_button{
+  width: 300px;
+  height: 40px;
+  display: inline;
+  background-color: #1959ed;
+  color: #e2d3f3;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#dice_reset{
+  width: 100px;
+  height: 40px;
+  background-color: #e2d3f3;
+  color: #1959ed;
+  font-weight: bold;
+  box-shadow: 6px 6px 3px -3px rgb(161, 161, 163);
+}
+#bmi_button:hover,
+#ani_button:hover,
+#run_button:hover,
+#calc_submit:hover,
+#quiz_button:hover,
+#dice_button:hover{
+  background-color: #336ef9;
+}
+#bmi_reset:hover,
+#ani_reset:hover,
+#run_reset:hover,
+#calc_reset:hover,
+#quiz_reset:hover,
+#pic:hover,
+#dice_reset:hover {
+  background-color: #e5ddef;
+}
