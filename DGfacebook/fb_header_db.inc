@@ -31,7 +31,7 @@
             <li><a href="fb_search_v2_db.php">회원검색v2</a></li>
             <li><a href="fb_view_db.php">모든 회원 보기</a></li>
             <li><a href="fb_update_db.php">회원 정보 수정</a></li>
-            <li><a href="bizapp_final_201911754.php">방명록v3</a></li>
+            <li><a href="bizapp_final.php">방명록v3</a></li>
             <li><a href="fb_logout_db.php">로그 아웃</a></li>
             <li><a href="fb_delete_db.php">회원 탈퇴</a></li>
           </ul>
