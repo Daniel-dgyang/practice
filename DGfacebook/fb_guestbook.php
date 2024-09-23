@@ -43,7 +43,7 @@
         <iframe src="https://dgyang.123guestbook.com/" frameborder="0" width="100%" height="500px"></iframe>
       </div>
       <div id="footer">
-        <p>대표 번호: +82)10-3501-1047 E-MAIL: were2019@gmail.com</p>
+        <p>대표 번호: +82)10-xxxx-xxxx E-MAIL: xxxx1119@xxx.com</p>
         <p style="margin-top: -10px">© Copyright DGfacebook. All Rights Reserved</p>
       </div>
     </div>
