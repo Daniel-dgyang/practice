@@ -4,7 +4,6 @@ require"fb_header_db.inc";
       <div id="content">
       <?php
       /**
-       * 개발자: 양동근(201911754)
        * 날짜: 2023.6.5
        * 개요: 입력받은 값을 db에 쿼리 실행
        */
