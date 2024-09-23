@@ -49,7 +49,6 @@
         <div id='php_box'>
         <?php
         /* -----------------
-        개발자: 양동근
         개발날짜: 2023.4.4
         개요: 로그인 입력값 출력
         -------------------- */
@@ -73,7 +72,7 @@ LOGIN;
         </div>
       </div>
       <div id="footer">
-        <p>대표 번호: +82)10-3501-1047 E-MAIL: were2019@gmail.com</p>
+        <p>대표 번호: +82)10-xxxx-xxxx E-MAIL: xxxx123@xxx.com</p>
         <p style="margin-top: -10px">© Copyright DGfacebook. All Rights Reserved</p>
       </div>
     </div>
